@@ -1,11 +1,13 @@
 [[source]]
-url = "https://pypi.org/simple"
 verify_ssl = true
+url = "https://pypi.python.org/simple"
 name = "pypi"
 
 [packages]
 
 [dev-packages]
+"flake8" = "*"
+ipdb = "==0.10.3"
 
 [requires]
 python_version = "3.6"

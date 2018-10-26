@@ -1,0 +1,1 @@
+from .golden_horse_parser import golden_horse_parser
